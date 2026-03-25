@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!-- Trang chủ -->
+    <url>
+        <loc>https://khoancocnhoigiare.com/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>1.00</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    <!-- Trang Giới thiệu -->
+    <url>
+        <loc>https://khoancocnhoigiare.com/gioi-thieu/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <!-- Trang Khoan cọc nhồi dân dụng -->
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-dan-dung/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <!-- Trang Chống lún nhà -->
+    <url>
+        <loc>https://khoancocnhoigiare.com/chong-lun-nha/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <!-- Trang Bảng giá -->
+    <url>
+        <loc>https://khoancocnhoigiare.com/bang-gia/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.90</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <!-- Trang Tin tức -->
+    <url>
+        <loc>https://khoancocnhoigiare.com/tin-tuc/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    <!-- Trang Tuyển dụng -->
+    <url>
+        <loc>https://khoancocnhoigiare.com/tuyen-dung/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <!-- Trang Đăng ký -->
+    <url>
+        <loc>https://khoancocnhoigiare.com/dang-ky/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <!-- Trang Liên hệ -->
+    <url>
+        <loc>https://khoancocnhoigiare.com/lien-he/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <!-- Các trang dịch vụ theo khu vực -->
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-tai-hoan-kiem/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-tai-dong-da/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-tai-ba-dinh/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-tai-hai-ba-trung/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-tai-hoang-mai/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-tai-thanh-xuan/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-tai-long-bien/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-tai-nam-tu-liem/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-tai-bac-tu-liem/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-tai-tay-ho/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-tai-cau-giay/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-tai-ha-dong/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <!-- Các trang dịch vụ theo loại -->
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-d400/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-d500/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-d600/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-d800/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <!-- Các bài viết -->
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-dan-dung-357/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.60</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-dan-dung-bang-gian-dien-chi-phi-thap/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.60</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-dan-dung-bang-xe-banh-xich/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.60</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/khoan-coc-nhoi-dan-dung-duong-kinh-lon/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.60</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/quy-trinh-thi-cong-coc-khoan-nhoi-gia-bao-nhieu/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.60</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/quy-trinh-thi-cong-khoan-coc-nhoi-dan-dung/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.60</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/bao-gia-khoan-coc-nhoi-dan-dung-thap-nhat/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.60</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <url>
+        <loc>https://khoancocnhoigiare.com/doi-ngu-thi-cong-khoan-coc-nhoi-dan-dung/</loc>
+        <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+        <priority>0.60</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+</urlset>
